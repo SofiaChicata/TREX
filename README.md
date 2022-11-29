@@ -1,2 +1,1 @@
-# TREX
-jogo do trex feito pela Sofia Chicata  
+# C19-SA
